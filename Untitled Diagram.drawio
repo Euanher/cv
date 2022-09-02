@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T18:58:32.489Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="19HfC8rEu7pwub0gMy_u" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T19:00:54.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qYJcJGZwB-b40_TCPS9I" version="20.2.8" type="github">
   <diagram id="MoQ36Po8Mup_CEjHtnbm" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,58 +8,61 @@
           <mxGeometry x="510" y="80.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169.5" y="410" width="80" height="80" as="geometry" />
+          <mxGeometry x="169.5" y="455" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-21" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="101" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-25" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
-          <mxGeometry x="184" y="760" width="110" height="50" as="geometry" />
+          <mxGeometry x="161" y="850" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.office_365;" vertex="1" parent="1">
-          <mxGeometry x="710" y="225" width="101" height="61" as="geometry" />
+          <mxGeometry x="726" y="283" width="101" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-28" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.public_cloud;" vertex="1" parent="1">
-          <mxGeometry x="649" y="340" width="101" height="81" as="geometry" />
+          <mxGeometry x="649" y="410" width="101" height="81" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-29" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_sharepoint;" vertex="1" parent="1">
-          <mxGeometry x="159" y="90" width="101" height="61" as="geometry" />
+          <mxGeometry x="110" y="93" width="101" height="61" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;outlineConnect=0;verticalAlign=top;align=center;shape=mxgraph.office.clouds.cloud_service_request;" vertex="1" parent="1">
-          <mxGeometry x="169" y="650" width="102" height="80" as="geometry" />
+          <mxGeometry x="164" y="710" width="102" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-32" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.communications.3rd_party_integration;" vertex="1" parent="1">
-          <mxGeometry x="188" y="320" width="54" height="55" as="geometry" />
+          <mxGeometry x="189" y="350" width="54" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-33" value="" style="sketch=0;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.databases.database_availability_group;" vertex="1" parent="1">
-          <mxGeometry x="20" y="190" width="59" height="59" as="geometry" />
+          <mxGeometry x="20" y="203" width="59" height="59" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-34" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.on_premises_server;" vertex="1" parent="1">
-          <mxGeometry x="198" y="540" width="44" height="60" as="geometry" />
+          <mxGeometry x="199.5" y="590" width="44" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-35" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.office_web_apps_server;" vertex="1" parent="1">
-          <mxGeometry x="361.5" y="92.5" width="52" height="56" as="geometry" />
+          <mxGeometry x="430" y="98" width="52" height="56" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-37" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.scom;" vertex="1" parent="1">
-          <mxGeometry x="211" y="190" width="56" height="53" as="geometry" />
+          <mxGeometry x="188" y="220" width="56" height="53" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-38" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.sharepoint_server;" vertex="1" parent="1">
-          <mxGeometry x="51.5" y="101" width="56" height="55" as="geometry" />
+          <mxGeometry x="40" y="101" width="56" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-39" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.outlook_web_app;" vertex="1" parent="1">
-          <mxGeometry x="500" y="300" width="83" height="51" as="geometry" />
+          <mxGeometry x="500" y="350" width="83" height="51" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-40" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.push_notification_service;" vertex="1" parent="1">
-          <mxGeometry x="590" y="225" width="50" height="58" as="geometry" />
+          <mxGeometry x="610" y="262" width="50" height="58" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.sites.my_site;" vertex="1" parent="1">
-          <mxGeometry x="271" y="96" width="58" height="49" as="geometry" />
+          <mxGeometry x="321" y="101" width="58" height="49" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-42" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="46" height="50" as="geometry" />
+          <mxGeometry x="690" y="535" width="46" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-43" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_store;" vertex="1" parent="1">
-          <mxGeometry x="100" y="192" width="50" height="55" as="geometry" />
+          <mxGeometry x="249.5" y="96" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="HtQoKGEl51CeDzkosziY-44" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user_accounts;" vertex="1" parent="1">
+          <mxGeometry x="683.5" y="192" width="59" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
