@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T18:46:55.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0Bp0j9C6EqiG_A3lWGum" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T18:48:30.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="66Sd4aIgRAr2SQSmCfvD" version="20.2.8" type="github">
   <diagram id="MoQ36Po8Mup_CEjHtnbm" name="Page-1">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HtQoKGEl51CeDzkosziY-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="60" height="80" as="geometry" />
@@ -14,13 +14,13 @@
           <mxGeometry x="410" y="35" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="140" width="80" height="80" as="geometry" />
+          <mxGeometry x="180" y="170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-7" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-8" value="Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="360" width="180" height="150" as="geometry" />
+          <mxGeometry x="124" y="605" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="HtQoKGEl51CeDzkosziY-8">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -79,6 +79,12 @@
         </mxCell>
         <mxCell id="HtQoKGEl51CeDzkosziY-22" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HtQoKGEl51CeDzkosziY-24" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="280" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HtQoKGEl51CeDzkosziY-25" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="493" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
